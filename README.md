@@ -159,14 +159,12 @@ http://localhost:5000
 
 Open MySQL Workbench and run:
 
-```sql
 CREATE DATABASE urbanbrew;
 USE urbanbrew;
-```
+
 
 Create table:
 
-```sql
 CREATE TABLE contacts (
   id INT AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(100),
@@ -182,9 +180,7 @@ CREATE TABLE contacts (
 
 Go to client folder:
 
-```
 cd client
-
 
 Run build command:
 
