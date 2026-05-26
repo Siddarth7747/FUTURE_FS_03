@@ -1,0 +1,90 @@
+.menu {
+  padding: 80px 8%;
+  background: #000;
+}
+
+.menu-top {
+  margin-bottom: 50px;
+}
+
+.menu-top p {
+  color: #f5b400;
+  font-size: 14px;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+
+.menu-top h1 {
+  color: white;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 30px;
+}
+
+.menu-card {
+  background: #111;
+  border-radius: 18px;
+  overflow: hidden;
+  transition: 0.3s;
+  border: 1px solid #222;
+}
+
+.menu-card:hover {
+  transform: translateY(-8px);
+}
+
+.menu-card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  display: block;
+}
+
+.menu-info {
+  padding: 24px;
+}
+
+.menu-info span {
+  color: #f5b400;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.menu-info h2 {
+  color: white;
+  margin-top: 10px;
+  font-size: 24px;
+}
+
+.menu-info h3 {
+  color: #ddd;
+  margin: 12px 0;
+  font-size: 20px;
+}
+
+.menu-info button {
+  padding: 12px 22px;
+  border: none;
+  background: #f5b400;
+  color: black;
+  font-weight: 600;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.menu-info button:hover {
+  background: white;
+}
+
+@media (max-width: 768px) {
+  .menu-top h1 {
+    font-size: 34px;
+  }
+}
