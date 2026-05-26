@@ -238,6 +238,11 @@ This website solves the problem of customers not having a **quick and easy way t
 ### **How does the website help attract customers?**
 
 The website gives Urban Brew Café a **professional online presence**. It highlights the café’s **premium design, menu, offers, and booking option**, which helps attract more visitors, improve customer engagement, and make the café more accessible to new customers.
+
+## 🔗 Live Demo
+
+https://urbanbrewcoffeehouse.netlify.app/
+
 ## 👨‍💻 Developer
 
 SIDDARTH K
