@@ -188,13 +188,10 @@ cd client
 
 Run build command:
 
-```bash
 npm run build
-```
 
 If build is successful, you will see output like:
 
-```bash
 vite building client environment for production...
 ✓ built successfully
 
