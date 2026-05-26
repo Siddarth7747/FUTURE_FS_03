@@ -182,9 +182,9 @@ CREATE TABLE contacts (
 
 Go to client folder:
 
-```bash
-cd client
 ```
+cd client
+
 
 Run build command:
 
