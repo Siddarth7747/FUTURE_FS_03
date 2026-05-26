@@ -117,13 +117,6 @@ This project has two parts:
 
 So you must run frontend and backend in **two separate terminals**.
 
-
-## 1️⃣ Clone the Repository
-
-git clone https://github.com/your-username/FUTURE_FS_04.git
-cd FUTURE_FS_04
-
-
 ## 2️⃣ Run Frontend
 
 Open terminal and go to client folder:
